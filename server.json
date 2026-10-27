@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "co.dealithic/investor-intro",
+  "title": "DEALITHIC Investor Intro",
+  "description": "Free investor-match preview for private issuers raising capital, and a request for a DEALITHIC intro.",
+  "version": "1.30.0",
+  "websiteUrl": "https://mcp.dealithic.co/investor-intro",
+  "icons": [
+    { "src": "https://mcp.dealithic.co/icon.png", "mimeType": "image/png" }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.dealithic.co/public/mcp"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Copyright (c) 2026 DEALITHIC, Inc. All rights reserved.
+
+This repository contains documentation and configuration for DEALITHIC's hosted MCP
+servers. No license is granted to copy, modify, distribute, or create derivative works
+of its contents, except for copying the configuration snippets as needed to connect an
+MCP client to DEALITHIC's hosted servers. Use of the hosted services is governed by
+https://www.dealithic.co/terms and https://www.dealithic.co/privacy.
